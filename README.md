@@ -51,4 +51,4 @@ This solver is tested using WENO-EXT(https://github.com/WENO-OF/WENOEXT) library
 
 3. Change to src folder
 
-4. Type wmake
+4. Type 'wmake'
