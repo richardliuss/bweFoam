@@ -45,10 +45,10 @@ This solver is tested using WENO-EXT library. Therefore, we suggest you to use t
 
 ### Install the solver
 
--Download the solver
+1. Download the solver
 
--Install WENO-EXT(optional)
+2. Install WENO-EXT(optional)
 
--Change to src folder
+3. Change to src folder
 
--Type wmake
+4. Type wmake
