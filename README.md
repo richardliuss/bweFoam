@@ -4,7 +4,7 @@ OpenFOAM-based solver for depth intergrated Boussinesq-type equations.
 
 This master branch has been tested OpenFOAM-7
 
-When solving a problem, we recommend to use WENO-EXT as the spacial derivates discretize scheme , which is forked in this repo.
+When solving a problem, we recommend to use WENO-EXT(https://github.com/WENO-OF/WENOEXT) as the spacial derivates discretize scheme , which is forked in this repo.
 
 Authors:
 
@@ -41,7 +41,7 @@ $\vec{B}=(1+\beta)\frac{h}{2}\nabla\left[\nabla\cdot\left(h\frac{\partial\vec{u}
 
 ### Numerical schemes
 
-This solver is tested using WENO-EXT library. Therefore, we suggest you to use this library. We have forked it to this repo.
+This solver is tested using WENO-EXT(https://github.com/WENO-OF/WENOEXT) library. Therefore, we suggest you to use this library. We have forked it to this repo.
 
 ### Install the solver
 
