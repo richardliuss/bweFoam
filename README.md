@@ -4,7 +4,7 @@ OpenFOAM-based solver for depth intergrated Boussinesq-type equations.
 
 This master branch has been tested OpenFOAM-7
 
-When solving a problem, we recommend to use WENO-EXT(https://github.com/WENO-OF/WENOEXT) as the spacial derivates discretize scheme , which is forked in this repo.
+When solving a problem, we recommend to use WENO-EXT(https://github.com/WENO-OF/WENOEXT) as the spacial derivates discretize scheme.
 
 Authors:
 
