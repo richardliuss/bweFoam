@@ -6,14 +6,6 @@ This master branch has been tested OpenFOAM-7
 
 When solving a problem, we recommend to use WENO-EXT(https://github.com/WENO-OF/WENOEXT) as the spacial derivates discretize scheme.
 
-Authors:
-
-- Fangrui Liu
-
-- Huai Zhang
-
-- Yaolin Shi
-
 
 ## Sofrware description:
 
